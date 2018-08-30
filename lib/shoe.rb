@@ -11,6 +11,7 @@ class Shoe
     unless BRANDS.include brand
       BRANDS << brand
  end
+ end
   
 #   def brands=(brand)
 # brands.each do |brand|
@@ -23,6 +24,5 @@ class Shoe
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
-  
   
 end
