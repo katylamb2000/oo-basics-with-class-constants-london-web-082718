@@ -10,6 +10,7 @@ class Shoe
     # BRANDS.each do |brand|
     # if BRANDS.include? brand
       BRANDS << brand
+      BRANDS.uni
 # end
 # end
 
