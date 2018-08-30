@@ -12,6 +12,7 @@ class Shoe
       BRANDS << brand
  end
  end
+ end
   
 #   def brands=(brand)
 # brands.each do |brand|
